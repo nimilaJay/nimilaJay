@@ -1,6 +1,13 @@
 ### Hi there 👋, my name is Nimila Jayawardena
-#### Team Lead
+#### Team Lead @ Macro Labs
 
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nimilaJay&show_icons=true&line_height=27&count_private=true&title_color=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <br/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimilaJay&hide=java,html,tex&title_color=tokyonight&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ </p>
+ 
+ 
+ <div align="center">  
 ## 🔍  Where to find me
 <br>	
 <p align="center">
