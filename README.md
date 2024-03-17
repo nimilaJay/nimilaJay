@@ -10,9 +10,11 @@ As a Team Lead at Macro Labs, my role is crucial in leading and managing a team 
 
 💬 Communication: Facilitating open and transparent communication within the team and with stakeholders.
 
-📈 Performance Management: Conducting performance evaluations, providing feedback, and identifying areas for growth and development.
+📈 Performance: Conducting performance evaluations, providing feedback, and identifying areas for growth and development.
 
 🔄 Process Improvement: Continuously seeking opportunities to improve team processes, productivity, and efficiency.
+
+<br>
 
 ## ⚡ Technologies
 
