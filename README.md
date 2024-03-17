@@ -1,7 +1,18 @@
 ### Hi there...👋 I'm Nimila Jayawardena
-## Team Lead @ Macro Labs
 
-As a Team Lead at Macro Labs, my role is crucial in leading and managing a team of software developers. I am responsible for guiding my team members, coordinating their efforts, and ensuring the successful delivery of projects. Additionally, I act as a bridge between upper management and my team, communicating goals, priorities, and feedback effectively.
+As a Team Lead at Macro Labs, my role is crucial in leading and managing a team of software developers. 🚀 I am responsible for guiding my team members, coordinating their efforts, and ensuring the successful delivery of projects. 🛠 Additionally, I act as a bridge between upper management and my team, communicating goals, priorities, and feedback effectively. 💬
+
+## 🌟 Responsibilities
+
+🔍 Guidance: Providing guidance, mentorship, and support to team members to help them achieve their full potential.
+
+🤝 Coordination: Coordinating the efforts of the team to ensure the timely delivery of high-quality work.
+
+💬 Communication: Facilitating open and transparent communication within the team and with stakeholders.
+
+📈 Performance Management: Conducting performance evaluations, providing feedback, and identifying areas for growth and development.
+
+🔄 Process Improvement: Continuously seeking opportunities to improve team processes, productivity, and efficiency.
 
 ## ⚡ Technologies
 
